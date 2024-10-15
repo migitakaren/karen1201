@@ -1,3 +1,3 @@
-function sayhello61()[{
- alert('helllo, Function!');
+function sayhello61(){
+ alert('Helllo, Function!');
 }
